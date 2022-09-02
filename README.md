@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Me chamo Edipo, tenho experiência profissional na área administrativa e Informática. Recentemente decidir realizar meu sonho de entrar para área de tecnologia da informação. 
+Atualmente estou cursando sistema de informação na Universidade stácio e Desenvolvedor Full Stack na Infinity School.
+Dedico maior parte do meu tempo em adquirir conhecimento nessa área que amo. Sou como profissional, adaptável e curioso, sempre com a flexibilidade de aprender novas tecnologias com facilidade. Sou proativo e com um bom relacionamento interpessoal.
+
+
+
 <!--
 **EdipoSilva79/EdipoSilva79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
